@@ -38,3 +38,8 @@ The project demonstrates a complete **deep learning pipeline**, from data prepro
 1. Clone the repository:
    ```bash
    git clone <repository_url>
+## Dataset
+
+Download the **Sign Language Digits** dataset from GitHub: [https://github.com/ardamavi/Sign-Language-Digits-Dataset](https://github.com/ardamavi/Sign-Language-Digits-Dataset)  
+
+After downloading, extract the `Dataset/` folder and place it in the project root so that the code can access the images correctly.
